@@ -9,7 +9,7 @@ Game functions with one player against 4 other AIs. AIs are named after develope
 
 I mainly worked on AI decision making based on hand evaluation, the main loop of the game, and other game planning decisions.
 
-Credits to Jack Griffin for all of the actual AI hand evaluation and game planning.
+Credits to Jack Griffin for the hand evaluation and game planning.
 
 Samir Ellis for Player class, Art, and Music
 
